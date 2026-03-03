@@ -1,0 +1,11 @@
+# Excluded directories
+Resources/
+.claude/
+Skills/
+demos/
+
+# macOS
+.DS_Store
+
+# Screenshots
+assets/images/Screenshot*
