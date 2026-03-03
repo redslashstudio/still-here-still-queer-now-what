@@ -1770,8 +1770,6 @@ blockquote,
     max-width: none;
     margin-bottom: 0;
     order: 1;
-    position: sticky;
-    top: var(--space-7);
   }
 }
 
